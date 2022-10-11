@@ -2,7 +2,8 @@ public class Solution {
     // My solution:
     //      Runtime: faster than 61.25%
     //      Memory Usage: less than 36.30%
-    public void ReverseString(char[] s) {
+    public void ReverseString(char[] s)
+    {
         for(int i = 0; i < s.Length/2; i++)
         {
             char temp = s[i];
