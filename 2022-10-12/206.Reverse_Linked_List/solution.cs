@@ -32,7 +32,7 @@ public class Solution {
     // Suggested solution:
     //      Runtime: faster than 48.57%
     //      Memory Usage: less than 89.63%
-    // Lessage memory usage
+    // Less memory usage
     public class Solution {
     public ListNode ReverseList(ListNode head)
     {
