@@ -1,5 +1,5 @@
 public class Solution {
-      // My solution:
+    // My solution:
     //      Runtime: faster than 39.11%
     //      Memory Usage: less than 91.80%
     // This is the second tries to finish this problem.
